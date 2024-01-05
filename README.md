@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1189298069884371037/1192892630934245436/header.gif?ex=65aabad6&is=659845d6&hm=69c7d0ad3169c1004500d0365404777326be9f595ca247236129bdfaaeaa91fd&)
+![MasterHead](https://i.stack.imgur.com/t4m8n.gif)
 <h1 align="center">Hi👋, I'm Beyza!</h1>
 <h3 align="center">📊🧠A passionate Data Scientist from Türkiye👀💻</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
