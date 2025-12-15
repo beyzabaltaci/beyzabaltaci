@@ -3,7 +3,11 @@
 <h3 align="center">📊🧠A passionate Data Scientist from Türkiye👀💻</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-🔭 I’m currently working on **a Master's program at Istanbul University - Cerrahpasa about Data Science and Machine Learning.**
+🎓 MSc in Data Science & Machine Learning
+Istanbul University – Cerrahpasa (Graduate)
+
+🏦 Strong interest in Banking & Financial Data Projects
+I actively work on data science projects related to banking, risk analysis, customer behavior, and financial analytics and regularly share my work on GitHub.
 
 📝 I write articles on [https://medium.com/@baltacibeyzaa](https://medium.com/@baltacibeyzaa)
 
